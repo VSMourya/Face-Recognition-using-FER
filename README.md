@@ -8,7 +8,7 @@
 #Requirements
 
 1. opencv ( pip install opencv-python )
-2  FER ( pip install fer )
+2. FER ( pip install fer )
 
 #How to run: 
 
