@@ -5,6 +5,10 @@
 3. A video with the detected faces will be saved in the form of a video.
 4. Emotions will be detected and displayed on the saved video.
 
+#Requirements
+
+1. opencv ( pip install opencv-python )
+2  FER ( pip install fer )
 
 #How to run: 
 
