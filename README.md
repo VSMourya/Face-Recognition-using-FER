@@ -1,4 +1,4 @@
-#Want to expect from this repo:
+#What to expect from this repo:
 
 1. Faces will be detected
 2. Detected faces will be stored in the "Images" folder
